@@ -1,0 +1,6 @@
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\Projects\Practice\LuckyNumbers09.2018\LuckyNumbers09.2018\bin\Debug\LuckyNumbers09.2018.exe.config
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\Projects\Practice\LuckyNumbers09.2018\LuckyNumbers09.2018\bin\Debug\LuckyNumbers09.2018.exe
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\Projects\Practice\LuckyNumbers09.2018\LuckyNumbers09.2018\bin\Debug\LuckyNumbers09.2018.pdb
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\Projects\Practice\LuckyNumbers09.2018\LuckyNumbers09.2018\obj\Debug\LuckyNumbers09.2018.csprojResolveAssemblyReference.cache
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\Projects\Practice\LuckyNumbers09.2018\LuckyNumbers09.2018\obj\Debug\LuckyNumbers09.2018.exe
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\Projects\Practice\LuckyNumbers09.2018\LuckyNumbers09.2018\obj\Debug\LuckyNumbers09.2018.pdb
